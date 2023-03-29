@@ -39,6 +39,8 @@
   background-repeat: no-repeat;
 }
 .card-section,
-.back-color {
+.back-color,
+.navbar,
+.about {
   background-color: #e6f0ff;
 }
