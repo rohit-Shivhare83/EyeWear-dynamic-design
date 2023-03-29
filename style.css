@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Fasthand&display=swap");
+.carousel-item img {
+  height: 65vh;
+}
+.card-img-mens img {
+  height: 15rem;
+  object-fit: cover;
+}
+.logo img {
+  height: 3.5rem;
+}
+.logo .i {
+  font-family: "Fasthand", cursive;
+  font-size: 2rem;
+  /* height: 3.5rem; */
+}
+.linear {
+  background: linear-gradient(114.76deg, #79c7ff 0.69%, #1f4ffd 100%);
+}
+.video {
+  margin-left: autos;
+  height: 30rem;
+  width: auto;
+}
